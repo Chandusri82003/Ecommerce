@@ -96,50 +96,50 @@ var items = [
   {
     id: 1,
     name: 'Shoe 1',
-    price: 49.99,
+    price: 4999,
     image: 'https://storage.sg.content-cdn.io/cdn-cgi/image/width=550,height=412,quality=75,format=auto/in-resources/e671b7de-bcf9-4637-af5c-0ffe1c9d208a/Images/ProductImages/Source/1201A789_001_SR_RT_GLB.jpg',
   },
   {
     id: 2,
     name: 'Shoe 2',
-    price: 59.99,
+    price: 5999,
     image: 'https://storage.sg.content-cdn.io/cdn-cgi/image/width=550,height=412,quality=75,format=auto/in-resources/e671b7de-bcf9-4637-af5c-0ffe1c9d208a/Images/ProductImages/Source/1202A380_700_SR_RT_GLBNSW.jpg',
   },
   // Add more items as needed
   {
     id: 3,
     name: 'Shoe 3',
-    price: 69.99,
+    price: 6999,
     image: 'https://example.com/shoe3.jpg',
   },
   {
     id: 4,
     name: 'Shoe 4',
-    price: 79.99,
+    price: 7999,
     image: 'https://example.com/shoe4.jpg',
   },
   {
     id: 5,
     name: 'Shoe 5',
-    price: 89.99,
+    price: 8999,
     image: 'https://example.com/shoe3.jpg',
   },
   {
     id: 6,
     name: 'Shoe 6',
-    price: 99.99,
+    price: 9999,
     image: 'https://example.com/shoe3.jpg',
   },
   {
     id: 7,
     name: 'Shoe 7',
-    price: 95.99,
+    price: 9599,
     image: 'https://example.com/shoe3.jpg',
   },
   {
     id: 8,
     name: 'Shoe 8',
-    price: 97.99,
+    price: 9799,
     image: 'https://example.com/shoe3.jpg',
   },
 ];
